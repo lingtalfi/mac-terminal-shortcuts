@@ -42,3 +42,16 @@ If you don't know how to do, here are the steps:
 - Now go to the General tab and set your new profile for opening with new window
 
 
+
+Technical notes
+--------------------
+
+Those shortcuts are based on the assumption that you are using the emacs command line editing mode,
+which is the default on Mac Os X, and in bash in general.
+
+If you are using the set -o vim option, those shortcuts should not work (not tested).
+
+
+
+
+
