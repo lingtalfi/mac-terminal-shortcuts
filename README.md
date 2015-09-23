@@ -16,6 +16,8 @@ This will make your Mac Os X terminal have cool and intuitive editing shortcuts:
 - ALT-del: kill one word forward
 - ALT-up: set word after cursor to uppercase
 - ALT-down: set word after cursor to lowercase
+- home: move to the beginning of the line
+- end: move to the end of the line
 - CTRL-backspace: Same as ALT-backspace
 - CTRL-del: Same as ALT-del
 
