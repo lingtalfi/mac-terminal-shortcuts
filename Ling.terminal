@@ -6,6 +6,10 @@
 	<real>2.04</real>
 	<key>ScrollAlternateScreen</key>
 	<true/>
+	<key>StrictVTKeypad</key>
+	<false/>
+	<key>columnCount</key>
+	<integer>150</integer>
 	<key>keyMapBoundKeys</key>
 	<dict>
 		<key>$F702</key>
@@ -78,10 +82,14 @@
 		<string></string>
 		<key>^007F</key>
 		<string></string>
+		<key>^F700</key>
+		<string>[1;5A</string>
+		<key>^F701</key>
+		<string>[1;5B</string>
 		<key>^F702</key>
-		<string></string>
+		<string>[1;5D</string>
 		<key>^F703</key>
-		<string></string>
+		<string>[1;5C</string>
 		<key>^F728</key>
 		<string>d</string>
 		<key>~007F</key>
@@ -156,6 +164,8 @@
 	</data>
 	<key>name</key>
 	<string>Ling</string>
+	<key>rowCount</key>
+	<integer>40</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>useOptionAsMetaKey</key>

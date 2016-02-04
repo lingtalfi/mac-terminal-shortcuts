@@ -10,8 +10,6 @@ This will make your Mac Os X terminal have cool and intuitive editing shortcuts:
 
 - ALT-left: move one word backward
 - ALT-right: move one word forward
-- CTRL-left: move to the beginning of the line
-- CTRL-right: move to the end of the line
 - ALT-backspace: kill one word backward
 - ALT-del: kill one word forward
 - ALT-up: set word after cursor to uppercase
@@ -20,6 +18,12 @@ This will make your Mac Os X terminal have cool and intuitive editing shortcuts:
 - end: move to the end of the line
 - CTRL-backspace: Same as ALT-backspace
 - CTRL-del: Same as ALT-del
+
+(Now those are used for tmux resizing)
+- CTRL-up: resize pane to the up
+- CTRL-right: resize pane to the right
+- CTRL-down: resize pane to the down
+- CTRL-left: resize pane to the left
 
 
 
